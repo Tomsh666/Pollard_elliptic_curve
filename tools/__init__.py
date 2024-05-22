@@ -1,3 +1,3 @@
-from .tools import scalar_multiply_vector
-from .tools import sum_points
+from .tools import scalar_multiply
+from .tools import algebraic_add
 
